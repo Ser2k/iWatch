@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Light.ttf);
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-LightItalic.ttf);
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Regular.ttf);
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Italic.ttf);
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Medium.ttf);
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-MediumItalic.ttf);
+  font-style: italic;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-Bold.ttf);
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "Ubuntu";
+  src: url(../font/Ubuntu-BoldItalic.ttf);
+  font-style: italic;
+  font-weight: 700;
+}
+body {
+  font-family: "Ubuntu", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
